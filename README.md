@@ -1,6 +1,6 @@
 # My Git Project
 
-> My code
+> My MERGE CONFLICT
 
 # Feature Branch
 
