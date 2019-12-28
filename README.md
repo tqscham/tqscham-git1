@@ -1,6 +1,6 @@
 # My Git Project
 
-> My code
+> My personal merge conflict
 
 # Feature Branch
 
