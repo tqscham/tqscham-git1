@@ -1,4 +1,6 @@
 print('Hi Git')
 
 def hi_there():
-    print('Local changes')
+
+    print('Making more conflicts to merge with.')
+
